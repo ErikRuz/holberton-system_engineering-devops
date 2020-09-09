@@ -1,0 +1,1 @@
+The script 0-current_working_directory will use the command PWD to tell us the current working directory.
