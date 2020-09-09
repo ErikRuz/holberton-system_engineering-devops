@@ -1,2 +1,2 @@
 #!/bin/bash
-mktempv holberton
+cd tmp mkdir holberton
