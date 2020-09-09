@@ -1,0 +1,1 @@
+This is the project dedicated to 0x00. Shell, basics
