@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 111-R
-
+chmod -R--x--x--x
